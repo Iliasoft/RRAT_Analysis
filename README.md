@@ -1,2 +1,2 @@
 # RRAT_Analysis
-Rotating Radia Transients Data Analysis for Radio Observatory @Puchino, part of my Master program
+Rotating radio transients data analysis tool for Radio observatory @Puchino, part of my astrophysics masters program
